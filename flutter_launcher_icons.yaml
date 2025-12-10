@@ -1,13 +1,13 @@
-# flutter pub run flutter_launcher_icons
+## Run `flutter pub run flutter_launcher_icons` to apply changes.
 flutter_launcher_icons:
-  image_path: "assets/logo/croshare_logo.png"
+  image_path: "assets/logo/logo.png"
 
   android: true
   min_sdk_android: 16 # android min sdk min:16, default 21
-  # adaptive_icon_background: "assets/icon/background.png"
-  # adaptive_icon_foreground: "assets/icon/foreground.png"
-  # adaptive_icon_foreground_inset: 16
-  # adaptive_icon_monochrome: "assets/icon/monochrome.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/logo/logo.png"
+  adaptive_icon_foreground_inset: 16
+  adaptive_icon_monochrome: "assets/logo/monochrome.png"
 
   ios: true
   remove_alpha_ios: true
