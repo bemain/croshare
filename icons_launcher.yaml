@@ -1,0 +1,8 @@
+## Run `dart run icons_launcher:create` to apply configuration changes.
+icons_launcher:
+  image_path: "assets/logo/croshare_logo.png"
+  platforms:
+    android:
+      enable: true
+    ios:
+      enable: true
