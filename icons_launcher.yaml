@@ -1,6 +1,6 @@
 ## Run `dart run icons_launcher:create` to apply configuration changes.
 icons_launcher:
-  image_path: "assets/logo/croshare_logo.png"
+  image_path: "assets/logo/hooked_logo.png"
   platforms:
     android:
       enable: true
